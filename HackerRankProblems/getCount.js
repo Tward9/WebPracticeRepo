@@ -23,3 +23,5 @@ function getCount(objects) {
     });
     return count;
 }
+
+//solved
